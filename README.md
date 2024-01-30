@@ -14,3 +14,5 @@ Examples:
 "Dr. Mundo" -> drmundo                                                                                          
 "Caitlyn" -> caitlyn                                                                                                
 "Miss Fortune" -> missfortune                                                                                                                            
+
+Make sure draft_data.csv is in the same directory as drafter.py 
