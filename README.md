@@ -10,7 +10,7 @@ the likelihood of you winning the game.
 
 The script will prompt you to enter the names of the given champions for each role. Enter the champion names in all lowercase, with no spaces. Omit special characters when the champion name requires them. Hit enter once the champion named is typed properly. Once all champions are entered wait for the algorithm to predict the outcome of the match
 
-Examples:
-"Dr. Mundo" -> drmundo
-"Caitlyn" -> caitlyn
-"Miss Fortune" -> missfortune
+Examples:                                                                                                                        
+"Dr. Mundo" -> drmundo                                                                                          
+"Caitlyn" -> caitlyn                                                                                                
+"Miss Fortune" -> missfortune                                                                                                                            
